@@ -1,0 +1,21 @@
+[
+    {
+        "Name":"Ajay",
+        "Age":26,
+        "Company":"MICORSOFT",
+        "Phone":9123456780
+    },
+    {
+        "Name":"vijay",
+        "Age":27,
+        "Company":"APPLE",
+        "Phone":91000000000
+    },
+    {
+        "Name":"trreee",
+        "Age":29,
+        "Company":"TECHJO",
+        "Phone":92000000000
+    }
+  
+]
